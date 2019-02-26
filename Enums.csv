@@ -1,0 +1,218 @@
+Type,Scope,Age,Age Code,Gender,Gender Code,Stage,Field,Role,Surface,Abbreviation,Event Name,Country,Country Name,Country,Region
+Club,Africa,U20,U20,Open/Men,M,Group,Normal,Player,Grass,AAUCC,All African Ultimate Club Championships,AFG,Afghanistan,AFG,Asia
+National,Asia Oceania,U24/U23,U24,Women,W,Crossover,Showcase,Coach,Beach,AOUC,Asia Oceanic Ultimate Championships,ALB,Albania,ALB,Europe
+,Europe,All,A,Mixed,X,Playoff,,Staff,,AOUCC,Asia Oceanic Ultimate Club Championships,ALG,Algeria,ALG,Africa
+,Americas,Master,M,,,Placement,,Player + Captain,,AOUGCC,Asia Oceanic Ultimate and Guts Club Championships,AND,Andorra,AND,Europe
+,World,Grand Master,GM,,,Finals,,Player + Spirit Captain,,ECC,European Club Championships,ANG,Angola,ANG,Africa
+,Asia,Great Grand Master,GGM,,,,,,,EUC,European Ultimate Championships,ANT,Antigua and Barbuda,ANT,Central America + Caribbean
+,Oceania,,,,,,,,,PAUC,Pan American Ultimate Championships,ARG,Argentina,ARG,South America
+,North America,,,,,,,,,PAUCC,Pan American Ultimate Club Championships,ARM,Armenia,ARM,Europe
+,Central America + Caribbean,,,,,,,,,WCBU,World Championships of Beach Ultimate,ARU,Aruba,ARU,Central America + Caribbean
+,South America,,,,,,,,,WGGMBUC,World Great Grandmasters Beach Ultimate Championships,ASA,American Samoa,ASA,Oceania
+,,,,,,,,,,WJUC,World Junior Ultimate Championahips,AUS,Australia,AUS,Oceania
+,,,,,,,,,,WMUCC,World Masters Ultimate Club Championships,AUT,Austria,AUT,Europe
+,,,,,,,,,,WU23UC,World Under-23 Ultimate Championships,AZE,Azerbaijan,AZE,Europe
+,,,,,,,,,,WU24UC,World Under-24 Ultimate Championships,BAH,Bahamas,BAH,Central America + Caribbean
+,,,,,,,,,,WUCC,World Ultimate Club Championships,BAN,Bangladesh,BAN,Asia
+,,,,,,,,,,WUGC,World Ultimate and Guts Championships,BAR,Barbados,BAR,Central America + Caribbean
+,,,,,,,,,,EBUCC,European Beach Ultimate Club Championship,BDI,Burundi,BDI,Africa
+,,,,,,,,,,AOUGC,Asia Oceanic Ultimate and Guts Championship,BEL,Belgium,BEL,Europe
+,,,,,,,,,,AAUGC,All Africa Ultimate and Guts Championship,BEN,Benin,BEN,Africa
+,,,,,,,,,,AOBUC,Asia Oceanic Beach Ultimate Championship,BER,Bermuda,BER,Central America + Caribbean
+,,,,,,,,,,EBUC,European Beach Ultimate Championship,BHU,Bhutan,BHU,Asia
+,,,,,,,,,,PAUGC,Pan American Ultimate and Guts Championship,BIH,Bosnia and Herzegovina,BIH,Europe
+,,,,,,,,,,WOC,World Overall Championship,BIZ,Belize,BIZ,Central America + Caribbean
+,,,,,,,,,,EUCF,European Ultimate Championships Finals,BLR,Belarus,BLR,Europe
+,,,,,,,,,,WUC,World Ultimate Championships,BOL,Bolivia,BOL,South America
+,,,,,,,,,,TWG,The World Games,BOT,Botswana,BOT,Africa
+,,,,,,,,,,WMUC,World Masters Ultimate Championships,BRA,Brazil,BRA,South America
+,,,,,,,,,,,,BRN,Bahrain,BRN,Asia
+,,,,,,,,,,,,BRU,Brunei,BRU,Asia
+,,,,,,,,,,,,BUL,Bulgaria,BUL,Europe
+,,,,,,,,,,,,BUR,Burkina Faso,BUR,Africa
+,,,,,,,,,,,,CAF,Central African Republic,CAF,Africa
+,,,,,,,,,,,,CAM,Cambodia,CAM,Asia
+,,,,,,,,,,,,CAN,Canada,CAN,North America
+,,,,,,,,,,,,CAY,Cayman Islands,CAY,Central America + Caribbean
+,,,,,,,,,,,,CGO,Congo,CGO,Africa
+,,,,,,,,,,,,CHA,Chad,CHA,Africa
+,,,,,,,,,,,,CHI,Chile,CHI,South America
+,,,,,,,,,,,,CHN,China,CHN,Asia
+,,,,,,,,,,,,CIV,Ivory Coast,CIV,Africa
+,,,,,,,,,,,,CMR,Cameroon,CMR,Africa
+,,,,,,,,,,,,COD,Democratic Republic of the Congo,COD,Africa
+,,,,,,,,,,,,COK,Cook Islands,COK,Oceania
+,,,,,,,,,,,,COL,Colombia,COL,South America
+,,,,,,,,,,,,COM,Comoros,COM,Africa
+,,,,,,,,,,,,CPV,Cape Verde,CPV,Africa
+,,,,,,,,,,,,CRC,Costa Rica,CRC,Central America + Caribbean
+,,,,,,,,,,,,CRO,Croatia,CRO,Europe
+,,,,,,,,,,,,CUB,Cuba,CUB,Central America + Caribbean
+,,,,,,,,,,,,CUI,Currier Island,CUI,World
+,,,,,,,,,,,,CYP,Cyprus,CYP,Europe
+,,,,,,,,,,,,CZE,Czech Republic,CZE,Europe
+,,,,,,,,,,,,DEN,Denmark,DEN,Europe
+,,,,,,,,,,,,DJI,Djibouti,DJI,Africa
+,,,,,,,,,,,,DMA,Dominica,DMA,Central America + Caribbean
+,,,,,,,,,,,,DOM,Dominican Republic,DOM,Central America + Caribbean
+,,,,,,,,,,,,ECU,Ecuador,ECU,South America
+,,,,,,,,,,,,EGY,Egypt,EGY,Africa
+,,,,,,,,,,,,ERI,Eritrea,ERI,Africa
+,,,,,,,,,,,,ESA,El Salvador,ESA,Central America + Caribbean
+,,,,,,,,,,,,ESP,Spain,ESP,Europe
+,,,,,,,,,,,,EST,Estonia,EST,Europe
+,,,,,,,,,,,,ETH,Ethiopia,ETH,Africa
+,,,,,,,,,,,,FIJ,Fiji,FIJ,Oceania
+,,,,,,,,,,,,FIN,Finland,FIN,Europe
+,,,,,,,,,,,,FRA,France,FRA,Europe
+,,,,,,,,,,,,FSM,Federated States of Micronesia,FSM,Oceania
+,,,,,,,,,,,,GAB,Gabon,GAB,Africa
+,,,,,,,,,,,,GAM,The Gambia,GAM,Africa
+,,,,,,,,,,,,GBR,Great Britain,GBR,Europe
+,,,,,,,,,,,,GBS,Guinea-Bissau,GBS,Africa
+,,,,,,,,,,,,GEO,Georgia,GEO,Europe
+,,,,,,,,,,,,GEQ,Equatorial Guinea,GEQ,Africa
+,,,,,,,,,,,,GER,Germany,GER,Europe
+,,,,,,,,,,,,GHA,Ghana,GHA,Africa
+,,,,,,,,,,,,GRE,Greece,GRE,Europe
+,,,,,,,,,,,,GRN,Grenada,GRN,Central America + Caribbean
+,,,,,,,,,,,,GUA,Guatemala,GUA,Central America + Caribbean
+,,,,,,,,,,,,GUI,Guinea,GUI,Africa
+,,,,,,,,,,,,GUM,Guam,GUM,Oceania
+,,,,,,,,,,,,GUY,Guyana,GUY,South America
+,,,,,,,,,,,,HAI,Haiti,HAI,Central America + Caribbean
+,,,,,,,,,,,,HKG,Hong Kong,HKG,Asia
+,,,,,,,,,,,,HON,Honduras,HON,Central America + Caribbean
+,,,,,,,,,,,,HUN,Hungary,HUN,Europe
+,,,,,,,,,,,,INA,Indonesia,INA,Asia
+,,,,,,,,,,,,IND,India,IND,Asia
+,,,,,,,,,,,,IRI,Iran,IRI,Asia
+,,,,,,,,,,,,IRL,Ireland,IRL,Europe
+,,,,,,,,,,,,IRQ,Iraq,IRQ,Asia
+,,,,,,,,,,,,ISL,Iceland,ISL,Europe
+,,,,,,,,,,,,ISR,Israel,ISR,Europe
+,,,,,,,,,,,,ISV,Virgin Islands,ISV,Central America + Caribbean
+,,,,,,,,,,,,ITA,Italy,ITA,Europe
+,,,,,,,,,,,,IVB,British Virgin Islands,IVB,Central America + Caribbean
+,,,,,,,,,,,,JAM,Jamaica,JAM,Central America + Caribbean
+,,,,,,,,,,,,JOR,Jordan,JOR,Asia
+,,,,,,,,,,,,JPN,Japan,JPN,Asia
+,,,,,,,,,,,,KAZ,Kazakhstan,KAZ,Europe
+,,,,,,,,,,,,KEN,Kenya,KEN,Africa
+,,,,,,,,,,,,KGZ,Kyrgyzstan,KGZ,Asia
+,,,,,,,,,,,,KIR,Kiribati,KIR,Oceania
+,,,,,,,,,,,,KOR,South Korea,KOR,Asia
+,,,,,,,,,,,,KOS,Kosovo,KOS,Europe
+,,,,,,,,,,,,KSA,Saudi Arabia,KSA,Asia
+,,,,,,,,,,,,KUW,Kuwait,KUW,Asia
+,,,,,,,,,,,,LAO,Laos,LAO,Asia
+,,,,,,,,,,,,LAT,Latvia,LAT,Europe
+,,,,,,,,,,,,LBA,Libya,LBA,Africa
+,,,,,,,,,,,,LBN,Lebanon,LBN,Asia
+,,,,,,,,,,,,LBR,Liberia,LBR,Africa
+,,,,,,,,,,,,LCA,Saint Lucia,LCA,Central America + Caribbean
+,,,,,,,,,,,,LES,Lesotho,LES,Africa
+,,,,,,,,,,,,LIE,Liechtenstein,LIE,Europe
+,,,,,,,,,,,,LTU,Lithuania,LTU,Europe
+,,,,,,,,,,,,LUX,Luxembourg,LUX,Europe
+,,,,,,,,,,,,MAD,Madagascar,MAD,Africa
+,,,,,,,,,,,,MAR,Morocco,MAR,Africa
+,,,,,,,,,,,,MAS,Malaysia,MAS,Asia
+,,,,,,,,,,,,MAW,Malawi,MAW,Africa
+,,,,,,,,,,,,MDA,Moldova,MDA,Europe
+,,,,,,,,,,,,MDV,Maldives,MDV,Asia
+,,,,,,,,,,,,MEX,Mexico,MEX,North America
+,,,,,,,,,,,,MGL,Mongolia,MGL,Asia
+,,,,,,,,,,,,MHL,Marshall Islands,MHL,Oceania
+,,,,,,,,,,,,MKD,Macedonia,MKD,Europe
+,,,,,,,,,,,,MLI,Mali,MLI,Africa
+,,,,,,,,,,,,MLT,Malta,MLT,Europe
+,,,,,,,,,,,,MNE,Montenegro,MNE,Europe
+,,,,,,,,,,,,MON,Monaco,MON,Europe
+,,,,,,,,,,,,MOZ,Mozambique,MOZ,Africa
+,,,,,,,,,,,,MRI,Mauritius,MRI,Africa
+,,,,,,,,,,,,MTN,Mauritania,MTN,Africa
+,,,,,,,,,,,,MYA,Myanmar,MYA,Asia
+,,,,,,,,,,,,NAM,Namibia,NAM,Africa
+,,,,,,,,,,,,NCA,Nicaragua,NCA,Central America + Caribbean
+,,,,,,,,,,,,NED,Netherlands,NED,Europe
+,,,,,,,,,,,,NEP,Nepal,NEP,Asia
+,,,,,,,,,,,,NGR,Nigeria,NGR,Africa
+,,,,,,,,,,,,NIG,Niger,NIG,Africa
+,,,,,,,,,,,,NOR,Norway,NOR,Europe
+,,,,,,,,,,,,NRU,Nauru,NRU,Oceania
+,,,,,,,,,,,,NZL,New Zealand,NZL,Oceania
+,,,,,,,,,,,,OMA,Oman,OMA,Asia
+,,,,,,,,,,,,PAK,Pakistan,PAK,Asia
+,,,,,,,,,,,,PAN,Panama,PAN,Central America + Caribbean
+,,,,,,,,,,,,PAR,Paraguay,PAR,South America
+,,,,,,,,,,,,PER,Peru,PER,South America
+,,,,,,,,,,,,PHI,Philippines,PHI,Asia
+,,,,,,,,,,,,PLE,Palestine,PLE,Asia
+,,,,,,,,,,,,PLW,Palau,PLW,Oceania
+,,,,,,,,,,,,PNG,Papua New Guinea,PNG,Oceania
+,,,,,,,,,,,,POL,Poland,POL,Europe
+,,,,,,,,,,,,POR,Portugal,POR,Europe
+,,,,,,,,,,,,PRK,North Korea,PRK,Asia
+,,,,,,,,,,,,PUR,Puerto Rico,PUR,Central America + Caribbean
+,,,,,,,,,,,,QAT,Qatar,QAT,Asia
+,,,,,,,,,,,,ROU,Romania,ROU,Europe
+,,,,,,,,,,,,RSA,South Africa,RSA,Africa
+,,,,,,,,,,,,RUS,Russia,RUS,Europe
+,,,,,,,,,,,,RWA,Rwanda,RWA,Africa
+,,,,,,,,,,,,SAM,Samoa,SAM,Oceania
+,,,,,,,,,,,,SEN,Senegal,SEN,Africa
+,,,,,,,,,,,,SEY,Seychelles,SEY,Africa
+,,,,,,,,,,,,SGP,Singapore,SGP,Asia
+,,,,,,,,,,,,SKN,Saint Kitts and Nevis,SKN,Central America + Caribbean
+,,,,,,,,,,,,SLE,Sierra Leone,SLE,Africa
+,,,,,,,,,,,,SLO,Slovenia,SLO,Europe
+,,,,,,,,,,,,SMR,San Marino,SMR,Europe
+,,,,,,,,,,,,SOL,Solomon Islands,SOL,Oceania
+,,,,,,,,,,,,SOM,Somalia,SOM,Africa
+,,,,,,,,,,,,SRB,Serbia,SRB,Europe
+,,,,,,,,,,,,SRI,Sri Lanka,SRI,Asia
+,,,,,,,,,,,,SSD,South Sudan,SSD,Africa
+,,,,,,,,,,,,STP,São Tomé and Príncipe,STP,Africa
+,,,,,,,,,,,,SUD,Sudan,SUD,Africa
+,,,,,,,,,,,,SUI,Switzerland,SUI,Europe
+,,,,,,,,,,,,SUR,Suriname,SUR,South America
+,,,,,,,,,,,,SVK,Slovakia,SVK,Europe
+,,,,,,,,,,,,SWE,Sweden,SWE,Europe
+,,,,,,,,,,,,SWZ,Eswatini,SWZ,Africa
+,,,,,,,,,,,,SYR,Syria,SYR,Asia
+,,,,,,,,,,,,TAN,Tanzania,TAN,Africa
+,,,,,,,,,,,,TGA,Tonga,TGA,Oceania
+,,,,,,,,,,,,THA,Thailand,THA,Asia
+,,,,,,,,,,,,TJK,Tajikistan,TJK,Asia
+,,,,,,,,,,,,TKM,Turkmenistan,TKM,Asia
+,,,,,,,,,,,,TLS,East Timor,TLS,Asia
+,,,,,,,,,,,,TOG,Togo,TOG,Africa
+,,,,,,,,,,,,TPE,Chinese Taipei,TPE,Asia
+,,,,,,,,,,,,TTO,Trinidad and Tobago,TTO,Central America + Caribbean
+,,,,,,,,,,,,TUN,Tunisia,TUN,Africa
+,,,,,,,,,,,,TUR,Turkey,TUR,Europe
+,,,,,,,,,,,,TUV,Tuvalu,TUV,Oceania
+,,,,,,,,,,,,UAE,United Arab Emirates,UAE,Asia
+,,,,,,,,,,,,UGA,Uganda,UGA,Africa
+,,,,,,,,,,,,UKR,Ukraine,UKR,Europe
+,,,,,,,,,,,,URU,Uruguay,URU,South America
+,,,,,,,,,,,,USA,United States,USA,North America
+,,,,,,,,,,,,UZB,Uzbekistan,UZB,Asia
+,,,,,,,,,,,,VAN,Vanuatu,VAN,Oceania
+,,,,,,,,,,,,VEN,Venezuela,VEN,South America
+,,,,,,,,,,,,VIE,Vietnam,VIE,Asia
+,,,,,,,,,,,,VIN,Saint Vincent and the Grenadines,VIN,Central America + Caribbean
+,,,,,,,,,,,,YEM,Yemen,YEM,Asia
+,,,,,,,,,,,,ZAM,Zambia,ZAM,Africa
+,,,,,,,,,,,,ZIM,Zimbabwe,ZIM,Africa
+,,,,,,,,,,,,,American Samoa,,Oceania
+,,,,,,,,,,,,,Anguilla,,Central America + Caribbean
+,,,,,,,,,,,,,England,,Europe
+,,,,,,,,,,,,,Faroe islands,,Europe
+,,,,,,,,,,,,,Gibraltar,,Europe
+,,,,,,,,,,,,,New Caledonia,,Oceania
+,,,,,,,,,,,,,Northern Ireland,,Europe
+,,,,,,,,,,,,,Scotland,,Europe
+,,,,,,,,,,,,,Tahiti,,Oceania
+,,,,,,,,,,,,,Wales,,Europe
