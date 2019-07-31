@@ -96,6 +96,7 @@ List of all team rosters at a given event
 **Example**
 
 | Event ID | Team ID | WFDF ID | Number | Player | Captain | Spirit Captain |
+|---|---|---|---|---|---|
 | `2018-WMUCC` | `AUS-SampleTeam` | `1` | `3` | YES, NO | YES, NO | YES, NO |
 | `2018-WMUCC` | `AUS-SampleTeam` | `4` | `3` | YES, NO | YES, NO | YES, NO |
 | Event ID | Team ID | WFDF ID | Player number | YES, NO | YES, NO | YES, NO | 
