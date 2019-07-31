@@ -85,7 +85,7 @@ List of all teams participating at an event
 |---|---|---|---|---|---|---|
 | `2018-WUCC` | `AUS-SampleTeam` | `All` | `Women` | `A-W` | `1` | `2` |
 |`2018-WUCC` | `AUS-SampleSquad` | `All` | `Mixed` | `A-X` | `5` | `1` |
-| Event ID | Team ID | U17, U20, U24, A, M, GM, GGM | Men, Mixed, Women | Seeding number | Final result |
+| Event ID | Team ID | U17, U20, U24, A, M, GM, GGM | Men, Mixed, Women | Age-Gender | Seeding number | Final result |
 
 ### Event: Rosters
 
@@ -96,7 +96,7 @@ List of all team rosters at a given event
 **Example**
 
 | Event ID | Team ID | WFDF ID | Number | Player | Captain | Spirit Captain |
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | `2018-WMUCC` | `AUS-SampleTeam` | `1` | `3` | YES, NO | YES, NO | YES, NO |
 | `2018-WMUCC` | `AUS-SampleTeam` | `4` | `3` | YES, NO | YES, NO | YES, NO |
 | Event ID | Team ID | WFDF ID | Player number | YES, NO | YES, NO | YES, NO | 
