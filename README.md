@@ -2,7 +2,7 @@
 
 In the lack of a publicly query-able repository of [WFDF](http://wfdf.org) game scores and [SOTG](http://www.wfdf.org/sotg/about-sotg) data, this repository provides a CSV dump of all data excavated. Eventually this data shall be in a neat, queryable database.
 
-## Structure
+# Structure
 
 In order to build a cohesive and rich data-set, following data will be collated here:
 
@@ -20,11 +20,11 @@ In order to build a cohesive and rich data-set, following data will be collated 
 
 **Note:** Until the status of privacy protection/policy is clarified, personal information will not be uploaded.
 
-## Schema
+# Schema
 
 The listed data sets are structured as follows:
 
-### Events
+## Events
 Growing list of WFDF events and their details
 
 **Example**
@@ -35,7 +35,9 @@ Growing list of WFDF events and their details
 | `2018-EBUCC` | `European Beach Ultimate Club Championship` | `EBUCC` | `2018` | `Europe` | `Club` | `Beach` | `Castelldefels` | `ESP` | `2018-10-26` | `2018-10-28` | `https://ebucc2018.org`
 | Year-Abbreviation | Event Name | Event Abbreviation | Year | World, Africa, Americas, Asia Oceania, Europe | Club, National | Beach, Grass | Host city, province | IOC host country code | ISO date | ISO date | URL |
 
-### Players
+***
+
+## Players
 
 Growing list of players, that have participated in WFDF events
 
@@ -49,7 +51,9 @@ Growing list of players, that have participated in WFDF events
 |`2`| `Male` | `1989-12-31` | `JPN` | 
 |WFDF id number | Female, Male | ISO date | IOC country code |
 
-### Teams
+***
+
+## Teams
 
 Growing list of teams, that have participated in WFDF events
 
@@ -63,7 +67,9 @@ Growing list of teams, that have participated in WFDF events
 | `AUS-SampleSquad` | `Sample Squad` | `AUS` | `Melbourne` |
 | Country-TeamName | Team name | IOC country code | City name |
 
-### Event: Games
+***
+
+## Event: Games
 
 List of all games and results from an event.
 
@@ -73,7 +79,9 @@ List of all games and results from an event.
 | `2018 WMUCC` | `M-M` | `2018-07-29` | `17:30` | `Arena` | `Showcase` | `Group` | `A4 vs A2` | `Quantum` | `Sun` | `15` | `1m 05s` | `13`| `1` | `0`| `2` |  `2` | `3` | `3` | `2` | `3`|
 | Event ID | Division ID | ISO date | 24h time | Filed number | Normal, Showcase | Group, Crossover, Playoff, Placement, Finals | Free text | Team name | Teams to be scored name | Number of goals | Avg. time spent on offense | Number of goals scored when starting on offence | Number of timeouts called | Number of spirit timeouts called | 0–4 | 0–4 | 0–4 | 0–4 | 0–4 |0–20|
 
-### Event: Participants
+***
+
+## Event: Participants
 
 List of all teams participating at an event
 
@@ -87,7 +95,9 @@ List of all teams participating at an event
 |`2018-WUCC` | `AUS-SampleSquad` | `All` | `Mixed` | `A-X` | `5` | `1` |
 | Event ID | Team ID | U17, U20, U24, A, M, GM, GGM | Men, Mixed, Women | Age-Gender | Seeding number | Final result |
 
-### Event: Rosters
+***
+
+## Event: Rosters
 
 List of all team rosters at a given event
 
@@ -97,6 +107,6 @@ List of all team rosters at a given event
 
 | Event ID | Team ID | WFDF ID | Number | Player | Captain | Spirit Captain |
 |---|---|---|---|---|---|---|
-| `2018-WMUCC` | `AUS-SampleTeam` | `1` | `3` | YES, NO | YES, NO | YES, NO |
-| `2018-WMUCC` | `AUS-SampleTeam` | `4` | `3` | YES, NO | YES, NO | YES, NO |
+| `2018-WMUCC` | `AUS-SampleTeam` | `1` | `3` | `YES` | `NO` | `NO` |
+| `2018-WMUCC` | `AUS-SampleTeam` | `4` | `3` | `YES` | `YES` | `NO` |
 | Event ID | Team ID | WFDF ID | Player number | YES, NO | YES, NO | YES, NO | 
