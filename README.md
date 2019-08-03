@@ -2,6 +2,8 @@
 
 In the lack of a publicly query-able repository of [WFDF](http://wfdf.org) game scores and [SOTG](http://www.wfdf.org/sotg/about-sotg) data, this repository provides a CSV dump of all data excavated. Eventually this data shall be in a neat, queryable database.
 
+Got any stats questions you'd like to have answered, please [fill this form here](https://forms.gle/onaTEMqgYsTFr4sdA).
+
 # Structure
 
 In order to build a cohesive and rich data-set, following data will be collated here:
