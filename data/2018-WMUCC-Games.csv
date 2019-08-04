@@ -66,7 +66,7 @@ Event,Division,Date,Time,Field #,Field,Stage,Game Detail,Team,Opponent,Goals,Off
 2018-WMUCC,M-M,2018-07-30,11:30,16,Normal,Group,A2 vs A3,SUN,Torque,,,,,,1,1,1,2,1,6
 2018-WMUCC,M-M,2018-07-30,11:30,16,Normal,Group,A2 vs A3,Torque,SUN,,,,,,2,3,2,3,3,13
 2018-WMUCC,GM-M,2018-07-30,14:00,1,Normal,Group,A2 vs A5,Grave Britain,Figjam,,,,,,2,2,2,2,2,10
-2018-WMUCC,M-M,2018-07-30,14:00,1,Normal,Group,A2 vs A5,Figjam,Grave Britain,,,,,,2,3,3,2,3,13
+2018-WMUCC,GM-M,2018-07-30,14:00,1,Normal,Group,A2 vs A5,Figjam,Grave Britain,,,,,,2,3,3,2,3,13
 2018-WMUCC,GM-M,2018-07-30,14:00,2,Normal,Group,A3 vs A4,Get Off My Lawn,Shutdown,,,,,,3,2,2,3,3,13
 2018-WMUCC,GM-M,2018-07-30,14:00,2,Normal,Group,A3 vs A4,Shutdown,Get Off My Lawn,,,,,,2,3,3,3,3,14
 2018-WMUCC,M-X,2018-07-30,14:00,3,Normal,Group,B2 vs B3,Wasabi,Mastadon,,,,,,1,1,1,2,3,8
@@ -160,7 +160,7 @@ Event,Division,Date,Time,Field #,Field,Stage,Game Detail,Team,Opponent,Goals,Off
 2018-WMUCC,GM-M,2018-07-31,9:30,15,Normal,Group,A7 vs A5,Grave Britain,Big Bombers,,,,,,2,2,3,3,3,13
 2018-WMUCC,GM-M,2018-07-31,9:30,15,Normal,Group,A7 vs A5,Big Bombers,Grave Britain,,,,,,2,1,2,2,3,10
 2018-WMUCC,GM-M,2018-07-31,9:30,16,Normal,Group,A2 vs A3,Get Off My Lawn,Figjam,,,,,,2,2,3,3,2,12
-2018-WMUCC,M-M,2018-07-31,9:30,16,Normal,Group,A2 vs A3,Figjam,Get Off My Lawn,,,,,,2,2,3,2,2,11
+2018-WMUCC,GM-M,2018-07-31,9:30,16,Normal,Group,A2 vs A3,Figjam,Get Off My Lawn,,,,,,2,2,3,2,2,11
 2018-WMUCC,M-M,2018-07-31,11:30,1,Normal,Group,B4 vs B5,Queen City Kings,Raging Bananas,,,,,,2,3,3,2,2,12
 2018-WMUCC,M-M,2018-07-31,11:30,1,Normal,Group,B4 vs B5,Raging Bananas,Queen City Kings,,,,,,2,1,3,2,3,11
 2018-WMUCC,M-M,2018-07-31,11:30,2,Normal,Group,C3 va C1,Men’s Masters Colombia,Rest Stop,,,,,,2,1,2,2,2,9
@@ -202,7 +202,7 @@ Event,Division,Date,Time,Field #,Field,Stage,Game Detail,Team,Opponent,Goals,Off
 2018-WMUCC,M-X,2018-07-31,14:00,4,Normal,Group,D1 vs D5,Hey Babe,Masala Magic,,,,,,3,2,2,3,3,13
 2018-WMUCC,M-X,2018-07-31,14:00,4,Normal,Group,D1 vs D5,Masala Magic,Hey Babe,,,,,,2,2,2,3,2,11
 2018-WMUCC,GM-M,2018-07-31,14:00,5,Normal,Group,A2 vs A7,Big Bombers,Figjam,,,,,,1,2,2,2,2,9
-2018-WMUCC,M-M,2018-07-31,14:00,5,Normal,Group,A2 vs A7,Figjam,Big Bombers,,,,,,2,2,2,3,2,11
+2018-WMUCC,GM-M,2018-07-31,14:00,5,Normal,Group,A2 vs A7,Figjam,Big Bombers,,,,,,2,2,2,3,2,11
 2018-WMUCC,GM-M,2018-07-31,14:00,6,Normal,Group,A6 vs A3,Reckon,Get Off My Lawn,,,,,,2,3,2,3,2,12
 2018-WMUCC,GM-M,2018-07-31,14:00,6,Normal,Group,A6 vs A3,Get Off My Lawn,Reckon,,,,,,2,2,3,3,2,12
 2018-WMUCC,GM-M,2018-07-31,14:00,7,Normal,Group,A4 vs A5,Shutdown,Grave Britain,,,,,,2,3,4,3,2,14
@@ -308,7 +308,7 @@ Event,Division,Date,Time,Field #,Field,Stage,Game Detail,Team,Opponent,Goals,Off
 2018-WMUCC,GM-M,2018-08-01,11:30,10,Normal,Group,A6 vs A7,Reckon,Big Bombers,,,,,,2,3,2,3,2,12
 2018-WMUCC,GM-M,2018-08-01,11:30,10,Normal,Group,A6 vs A7,Big Bombers,Reckon,,,,,,2,2,2,2,3,11
 2018-WMUCC,GM-M,2018-08-01,11:30,11,Normal,Group,A4 vs A2,Shutdown,Figjam,,,,,,1,2,2,2,3,10
-2018-WMUCC,M-M,2018-08-01,11:30,11,Normal,Group,A4 vs A2,Figjam,Shutdown,,,,,,1,2,2,2,3,10
+2018-WMUCC,GM-M,2018-08-01,11:30,11,Normal,Group,A4 vs A2,Figjam,Shutdown,,,,,,1,2,2,2,3,10
 2018-WMUCC,GM-M,2018-08-01,11:30,12,Normal,Group,A3 vs A1,Surly GM,Get Off My Lawn,,,,,,2,3,2,3,2,12
 2018-WMUCC,GM-M,2018-08-01,11:30,12,Normal,Group,A3 vs A1,Get Off My Lawn,Surly GM,,,,,,2,2,2,3,3,12
 2018-WMUCC,M-X,2018-08-01,11:30,13,Normal,Group,C1 vs C2,512,Uknighted,,,,,,3,2,2,3,2,12
@@ -385,7 +385,7 @@ Event,Division,Date,Time,Field #,Field,Stage,Game Detail,Team,Opponent,Goals,Off
 2018-WMUCC,M-X,2018-08-01,16:00,16,Normal,Group,5A vs 5B,Grey BH,Aoteaora Eh,,,,,,1,2,2,3,2,10
 2018-WMUCC,M-X,2018-08-01,16:00,18,Normal,Group,5C vs 5D,Masala Magic,Medellin,,,,,,2,2,3,3,2,12
 2018-WMUCC,M-X,2018-08-01,16:00,18,Normal,Group,5C vs 5D,Medellin,Masala Magic,,,,,,2,2,3,2,2,11
-2018-WMUCC,M-M,2018-08-01,19:00,Arena,Showcase,Group,A1 vs A2,Figjam,Surly GM,,,,,,2,1,2,1,2,8
+2018-WMUCC,GM-M,2018-08-01,19:00,Arena,Showcase,Group,A1 vs A2,Figjam,Surly GM,,,,,,2,1,2,1,2,8
 2018-WMUCC,GM-M,2018-08-01,19:00,Arena,Showcase,Group,A1 vs A2,Surly GM,Figjam,,,,,,2,2,2,2,2,10
 2018-WMUCC,M-M,2018-08-02,9:30,1,Normal,Playoff,QF 3,Boneyard,SUN,,,,,,2,2,2,2,2,10
 2018-WMUCC,M-M,2018-08-02,9:30,1,Normal,Playoff,QF 3,SUN,Boneyard,,,,,,2,2,3,2,3,12
@@ -432,7 +432,7 @@ Event,Division,Date,Time,Field #,Field,Stage,Game Detail,Team,Opponent,Goals,Off
 2018-WMUCC,GM-M,2018-08-02,11:30,5,Normal,Group,A1 vs A4,Surly GM,Shutdown,,,,,,1,2,2,2,1,8
 2018-WMUCC,GM-M,2018-08-02,11:30,5,Normal,Group,A1 vs A4,Shutdown,Surly GM,,,,,,1,2,2,3,2,10
 2018-WMUCC,GM-M,2018-08-02,11:30,6,Normal,Group,A6 vs A2,Reckon,Figjam,,,,,,2,2,2,2,2,10
-2018-WMUCC,M-M,2018-08-02,11:30,6,Normal,Group,A6 vs A2,Figjam,Reckon,,,,,,2,2,2,2,3,11
+2018-WMUCC,GM-M,2018-08-02,11:30,6,Normal,Group,A6 vs A2,Figjam,Reckon,,,,,,2,2,2,2,3,11
 2018-WMUCC,GM-M,2018-08-02,11:30,7,Normal,Group,B2 vs B7,Johnny Walker,UP-Korea,,,,,,2,2,3,3,3,13
 2018-WMUCC,GM-M,2018-08-02,11:30,7,Normal,Group,B2 vs B7,UP-Korea,Johnny Walker,,,,,,2,2,2,2,3,11
 2018-WMUCC,M-X,2018-08-02,11:30,8,Normal,Playoff,Consolation QF 1,UFO,Wasabi,,,,,,2,2,2,2,1,9
@@ -500,7 +500,7 @@ Event,Division,Date,Time,Field #,Field,Stage,Game Detail,Team,Opponent,Goals,Off
 2018-WMUCC,M-X,2018-08-02,16:00,12,Normal,Placement,Bottom 5 Round Robin,Masala Magic,Grey BH,,,,,,2,3,3,3,2,13
 2018-WMUCC,M-X,2018-08-02,16:00,12,Normal,Placement,Bottom 5 Round Robin,Grey BH,Masala Magic,,,,,,2,2,3,3,2,12
 2018-WMUCC,GM-M,2018-08-02,16:00,13,Normal,Group,B3 vs A2,Shadows,Figjam,,,,,,2,2,3,3,2,12
-2018-WMUCC,M-M,2018-08-02,16:00,13,Normal,Group,B3 vs A2,Figjam,Shadows,,,,,,2,2,2,2,3,11
+2018-WMUCC,GM-M,2018-08-02,16:00,13,Normal,Group,B3 vs A2,Figjam,Shadows,,,,,,2,2,2,2,3,11
 2018-WMUCC,GM-M,2018-08-02,16:00,14,Normal,Group,B1 vs A4,Johnny Walker,Shutdown,,,,,,3,2,2,3,3,13
 2018-WMUCC,GM-M,2018-08-02,16:00,14,Normal,Group,B1 vs A4,Shutdown,Johnny Walker,,,,,,1,0,2,2,2,7
 2018-WMUCC,GM-M,2018-08-02,16:00,15,Normal,Group,A6 vs B7,Grave Britain,TRex,,,,,,2,2,3,3,2,12
@@ -570,7 +570,7 @@ Event,Division,Date,Time,Field #,Field,Stage,Game Detail,Team,Opponent,Goals,Off
 2018-WMUCC,GM-M,2018-08-03,11:30,11,Normal,Placement,Placement Games 5-8,Grand Masters of the Universe,Reckon,,,,,,2,3,3,3,2,13
 2018-WMUCC,GM-M,2018-08-03,11:30,11,Normal,Placement,Placement Games 5-8,Reckon,Grand Masters of the Universe,,,,,,2,3,2,3,2,12
 2018-WMUCC,GM-M,2018-08-03,11:30,12,Normal,Placement,Placement Games 5-8,Shutdown,Figjam,,,,,,2,3,3,2,3,13
-2018-WMUCC,M-M,2018-08-03,11:30,12,Normal,Placement,Placement Games 5-8,Figjam,Shutdown,,,,,,2,2,2,2,2,10
+2018-WMUCC,GM-M,2018-08-03,11:30,12,Normal,Placement,Placement Games 5-8,Figjam,Shutdown,,,,,,2,2,2,2,2,10
 2018-WMUCC,GM-M,2018-08-03,11:30,13,Normal,Placement,Placement Games 13-15,Big Bombers,UP-Korea,,,,,,2,1,2,1,3,9
 2018-WMUCC,GM-M,2018-08-03,11:30,13,Normal,Placement,Placement Games 13-15,UP-Korea,Big Bombers,,,,,,2,1,1,1,2,7
 2018-WMUCC,GM-M,2018-08-03,11:30,14,Normal,Playoff,Consolation SF 1,KalaKala,TRex,,,,,,2,2,3,3,3,13
@@ -606,7 +606,7 @@ Event,Division,Date,Time,Field #,Field,Stage,Game Detail,Team,Opponent,Goals,Off
 2018-WMUCC,GM-M,2018-08-03,16:00,2,Normal,Placement,3rd,Shadows,Tombstone,,,,,,2,2,3,3,2,12
 2018-WMUCC,GM-M,2018-08-03,16:00,2,Normal,Placement,3rd,Tombstone,Shadows,,,,,,3,3,3,3,3,15
 2018-WMUCC,GM-M,2018-08-03,16:00,3,Normal,Placement,7th Place Game,Grand Masters of the Universe,Figjam,,,,,,2,2,2,2,3,11
-2018-WMUCC,M-M,2018-08-03,16:00,3,Normal,Placement,7th Place Game,Figjam,Grand Masters of the Universe,,,,,,2,3,2,2,2,11
+2018-WMUCC,GM-M,2018-08-03,16:00,3,Normal,Placement,7th Place Game,Figjam,Grand Masters of the Universe,,,,,,2,3,2,2,2,11
 2018-WMUCC,GM-M,2018-08-03,16:00,4,Normal,Placement,5th Place Game,Reckon,Shutdown,,,,,,2,3,3,2,2,12
 2018-WMUCC,GM-M,2018-08-03,16:00,4,Normal,Placement,5th Place Game,Shutdown,Reckon,,,,,,2,3,3,4,3,15
 2018-WMUCC,M-X,2018-08-03,16:00,5,Normal,Placement,Bottom 5 Round Robin,Aoteaora Eh,Medellin,,,,,,2,1,2,2,2,9
