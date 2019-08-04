@@ -13,7 +13,7 @@ Event,Division,Date,Time,Field #,Field,Stage,Game Detail,Team,Opponent,Goals,Off
 2018-WMUCC,M-X,2018-07-30,9:30,5,Normal,Group,A1 vs A4,Grey BH,UPAARP,,,,,,2,2,2,3,2,11
 2018-WMUCC,M-X,2018-07-30,9:30,6,Normal,Group,B2 vs B5,Wasabi,Spectrum,,,,,,1,2,3,3,2,11
 2018-WMUCC,M-X,2018-07-30,9:30,6,Normal,Group,B2 vs B5,Spectrum,Wasabi,,,,,,3,2,3,3,3,14
-2018-WMUCC,A-W,2018-07-30,9:30,7,Normal,Group,D6 vs D1,UFO,Hey Babe,,,,,,2,2,4,4,4,16
+2018-WMUCC,M-X,2018-07-30,9:30,7,Normal,Group,D6 vs D1,UFO,Hey Babe,,,,,,2,2,4,4,4,16
 2018-WMUCC,M-X,2018-07-30,9:30,7,Normal,Group,D6 vs D1,Hey Babe,UFO,,,,,,3,2,3,3,2,13
 2018-WMUCC,M-X,2018-07-30,9:30,8,Normal,Group,D4 vs D2,2600,Penguin Village,,,,,,3,2,2,2,2,11
 2018-WMUCC,M-X,2018-07-30,9:30,8,Normal,Group,D4 vs D2,Penguin Village,2600,,,,,,2,2,2,2,2,10
@@ -96,7 +96,7 @@ Event,Division,Date,Time,Field #,Field,Stage,Game Detail,Team,Opponent,Goals,Off
 2018-WMUCC,GM-M,2018-07-30,14:00,15,Normal,Group,B1 vs B3,Tombstone,Beers,,,,,,3,3,3,4,2,15
 2018-WMUCC,GM-M,2018-07-30,14:00,15,Normal,Group,B1 vs B3,Beers,Tombstone,,,,,,2,2,2,2,2,10
 2018-WMUCC,M-X,2018-07-30,14:00,16,Normal,Group,D3 vs D6,San Francisco Bridge Club,UFO,,,,,,2,1,2,3,3,11
-2018-WMUCC,A-W,2018-07-30,14:00,16,Normal,Group,D3 vs D6,UFO,San Francisco Bridge Club,,,,,,2,2,2,2,2,10
+2018-WMUCC,M-X,2018-07-30,14:00,16,Normal,Group,D3 vs D6,UFO,San Francisco Bridge Club,,,,,,2,2,2,2,2,10
 2018-WMUCC,M-W,2018-07-30,16:00,1,Normal,Group,A2 vs A5,Ripe,Loose Cannon,,,,,,2,2,3,3,2,12
 2018-WMUCC,M-W,2018-07-30,16:00,1,Normal,Group,A2 vs A5,Loose Cannon,Ripe,,,,,,2,2,2,2,2,10
 2018-WMUCC,M-W,2018-07-30,16:00,2,Normal,Group,B8 vs B6,Mint,Silver Foxes,,,,,,2,2,2,3,2,11
@@ -156,7 +156,7 @@ Event,Division,Date,Time,Field #,Field,Stage,Game Detail,Team,Opponent,Goals,Off
 2018-WMUCC,GM-M,2018-07-31,9:30,13,Normal,Group,B6 vs B7,KalaKala,UP-Korea,,,,,,2,3,3,3,2,13
 2018-WMUCC,GM-M,2018-07-31,9:30,13,Normal,Group,B6 vs B7,UP-Korea,KalaKala,,,,,,2,2,3,3,2,12
 2018-WMUCC,M-X,2018-07-31,9:30,14,Normal,Group,D6 vs D2,Penguin Village,UFO,,,,,,2,2,2,2,2,10
-2018-WMUCC,A-W,2018-07-31,9:30,14,Normal,Group,D6 vs D2,UFO,Penguin Village,,,,,,2,1,2,3,3,11
+2018-WMUCC,M-X,2018-07-31,9:30,14,Normal,Group,D6 vs D2,UFO,Penguin Village,,,,,,2,1,2,3,3,11
 2018-WMUCC,GM-M,2018-07-31,9:30,15,Normal,Group,A7 vs A5,Grave Britain,Big Bombers,,,,,,2,2,3,3,3,13
 2018-WMUCC,GM-M,2018-07-31,9:30,15,Normal,Group,A7 vs A5,Big Bombers,Grave Britain,,,,,,2,1,2,2,3,10
 2018-WMUCC,GM-M,2018-07-31,9:30,16,Normal,Group,A2 vs A3,Get Off My Lawn,Figjam,,,,,,2,2,3,3,2,12
@@ -195,7 +195,7 @@ Event,Division,Date,Time,Field #,Field,Stage,Game Detail,Team,Opponent,Goals,Off
 2018-WMUCC,M-W,2018-07-31,11:30,16,Normal,Group,A2 vs A3,iRot,Ripe,,,,,,1,2,3,2,2,10
 2018-WMUCC,GM-M,2018-07-31,14:00,1,Normal,Group,B1 vs B5,Grand Masters of the Universe,Tombstone,,,,,,2,2,3,2,3,12
 2018-WMUCC,GM-M,2018-07-31,14:00,1,Normal,Group,B1 vs B5,Tombstone,Grand Masters of the Universe,,,,,,2,2,2,3,2,11
-2018-WMUCC,A-W,2018-07-31,14:00,2,Normal,Group,D6 vs D4,UFO,2600,,,,,,2,2,3,2,3,12
+2018-WMUCC,M-X,2018-07-31,14:00,2,Normal,Group,D6 vs D4,UFO,2600,,,,,,2,2,3,2,3,12
 2018-WMUCC,M-X,2018-07-31,14:00,2,Normal,Group,D6 vs D4,2600,UFO,,,,,,1,1,2,2,2,8
 2018-WMUCC,M-X,2018-07-31,14:00,3,Normal,Group,C4 vs C2,Banana Cream Pie,Uknighted,,,,,,2,1,2,3,2,10
 2018-WMUCC,M-X,2018-07-31,14:00,3,Normal,Group,C4 vs C2,Uknighted,Banana Cream Pie,,,,,,1,2,1,2,2,8
@@ -304,7 +304,7 @@ Event,Division,Date,Time,Field #,Field,Stage,Game Detail,Team,Opponent,Goals,Off
 2018-WMUCC,M-X,2018-08-01,11:30,8,Normal,Group,D3 vs D4,San Francisco Bridge Club,2600,,,,,,3,2,2,3,3,13
 2018-WMUCC,M-X,2018-08-01,11:30,8,Normal,Group,D3 vs D4,2600,San Francisco Bridge Club,,,,,,2,2,2,3,3,12
 2018-WMUCC,M-X,2018-08-01,11:30,9,Normal,Group,D5 vs D6,Masala Magic,UFO,,,,,,2,2,3,3,2,12
-2018-WMUCC,A-W,2018-08-01,11:30,9,Normal,Group,D5 vs D6,UFO,Masala Magic,,,,,,2,3,2,3,3,13
+2018-WMUCC,M-X,2018-08-01,11:30,9,Normal,Group,D5 vs D6,UFO,Masala Magic,,,,,,2,3,2,3,3,13
 2018-WMUCC,GM-M,2018-08-01,11:30,10,Normal,Group,A6 vs A7,Reckon,Big Bombers,,,,,,2,3,2,3,2,12
 2018-WMUCC,GM-M,2018-08-01,11:30,10,Normal,Group,A6 vs A7,Big Bombers,Reckon,,,,,,2,2,2,2,3,11
 2018-WMUCC,GM-M,2018-08-01,11:30,11,Normal,Group,A4 vs A2,Shutdown,Figjam,,,,,,1,2,2,2,3,10
@@ -353,7 +353,7 @@ Event,Division,Date,Time,Field #,Field,Stage,Game Detail,Team,Opponent,Goals,Off
 2018-WMUCC,M-M,2018-08-01,14:00,16,Normal,Group,5A vs 5B,Raging Bananas,Men’s Masters Mexico,,,,,,2,3,3,2,2,12
 2018-WMUCC,M-M,2018-08-01,14:00,17,Normal,Group,5D vs 5C,DUFF Stout,Wolpertinger,,,,,,2,2,3,3,2,12
 2018-WMUCC,M-M,2018-08-01,14:00,17,Normal,Group,5D vs 5C,Wolpertinger,DUFF Stout,,,,,,3,2,2,3,2,12
-2018-WMUCC,A-W,2018-08-01,16:00,1,Normal,Group,1A vs 4D,UFO,UPAARP,,,,,,2,2,2,3,3,12
+2018-WMUCC,M-X,2018-08-01,16:00,1,Normal,Group,1A vs 4D,UFO,UPAARP,,,,,,2,2,2,3,3,12
 2018-WMUCC,M-X,2018-08-01,16:00,1,Normal,Group,1A vs 4D,UPAARP,UFO,,,,,,3,2,2,3,2,12
 2018-WMUCC,M-X,2018-08-01,16:00,2,Normal,Group,2C vs 3B,Molasses Disaster,Wasabi,,,,,,3,3,3,4,4,17
 2018-WMUCC,M-X,2018-08-01,16:00,2,Normal,Group,2C vs 3B,Wasabi,Molasses Disaster,,,,,,2,2,2,3,2,11
@@ -435,7 +435,7 @@ Event,Division,Date,Time,Field #,Field,Stage,Game Detail,Team,Opponent,Goals,Off
 2018-WMUCC,M-M,2018-08-02,11:30,6,Normal,Group,A6 vs A2,Figjam,Reckon,,,,,,2,2,2,2,3,11
 2018-WMUCC,GM-M,2018-08-02,11:30,7,Normal,Group,B2 vs B7,Johnny Walker,UP-Korea,,,,,,2,2,3,3,3,13
 2018-WMUCC,GM-M,2018-08-02,11:30,7,Normal,Group,B2 vs B7,UP-Korea,Johnny Walker,,,,,,2,2,2,2,3,11
-2018-WMUCC,A-W,2018-08-02,11:30,8,Normal,Playoff,Consolation QF 1,UFO,Wasabi,,,,,,2,2,2,2,1,9
+2018-WMUCC,M-X,2018-08-02,11:30,8,Normal,Playoff,Consolation QF 1,UFO,Wasabi,,,,,,2,2,2,2,1,9
 2018-WMUCC,M-X,2018-08-02,11:30,8,Normal,Playoff,Consolation QF 1,Wasabi,UFO,,,,,,1,1,1,2,1,6
 2018-WMUCC,M-X,2018-08-02,11:30,9,Normal,Playoff,Consolation QF 2,Bingo & Chill,Banana Cream Pie,,,,,,2,2,2,2,1,9
 2018-WMUCC,M-X,2018-08-02,11:30,9,Normal,Playoff,Consolation QF 2,Banana Cream Pie,Bingo & Chill,,,,,,2,1,2,2,1,8
@@ -492,7 +492,7 @@ Event,Division,Date,Time,Field #,Field,Stage,Game Detail,Team,Opponent,Goals,Off
 2018-WMUCC,M-X,2018-08-02,16:00,6,Normal,Placement,Bottom 5 Round Robin,Spectrum,Uknighted,,,,,,2,2,3,3,2,12
 2018-WMUCC,M-X,2018-08-02,16:00,6,Normal,Placement,Bottom 5 Round Robin,Uknighted,Spectrum,,,,,,2,2,3,3,3,13
 2018-WMUCC,M-X,2018-08-02,16:00,7,Normal,Playoff,Consolation SF 1,Bingo & Chill,UFO,,,,,,2,1,2,2,2,9
-2018-WMUCC,A-W,2018-08-02,16:00,7,Normal,Playoff,Consolation SF 1,UFO,Bingo & Chill,,,,,,2,2,2,2,2,10
+2018-WMUCC,M-X,2018-08-02,16:00,7,Normal,Playoff,Consolation SF 1,UFO,Bingo & Chill,,,,,,2,2,2,2,2,10
 2018-WMUCC,M-X,2018-08-02,16:00,8,Normal,Playoff,Consolation SF2,Hey Babe,Penguin Village,,,,,,2,3,3,3,2,13
 2018-WMUCC,M-X,2018-08-02,16:00,8,Normal,Playoff,Consolation SF2,Penguin Village,Hey Babe,,,,,,1,2,2,2,2,9
 2018-WMUCC,M-X,2018-08-02,16:00,11,Normal,Placement,Bottom 5 Round Robin,2600,Medellin,,,,,,2,3,2,3,2,12
@@ -558,7 +558,7 @@ Event,Division,Date,Time,Field #,Field,Stage,Game Detail,Team,Opponent,Goals,Off
 2018-WMUCC,GM-M,2018-08-03,11:30,4,Normal,Playoff,SF 2,Johnny Walker,Shadows,,,,,,2,3,3,3,3,14
 2018-WMUCC,GM-M,2018-08-03,11:30,4,Normal,Playoff,SF 2,Shadows,Johnny Walker,,,,,,2,2,2,3,2,11
 2018-WMUCC,M-X,2018-08-03,11:30,5,Normal,Placement,Consolation Final,Hey Babe,UFO,,,,,,2,3,3,3,3,14
-2018-WMUCC,A-W,2018-08-03,11:30,5,Normal,Placement,Consolation Final,UFO,Hey Babe,,,,,,2,2,3,3,2,12
+2018-WMUCC,M-X,2018-08-03,11:30,5,Normal,Placement,Consolation Final,UFO,Hey Babe,,,,,,2,2,3,3,2,12
 2018-WMUCC,M-X,2018-08-03,11:30,6,Normal,Placement,11th,Bingo & Chill,Penguin Village,,,,,,2,1,1,2,1,7
 2018-WMUCC,M-X,2018-08-03,11:30,6,Normal,Placement,11th,Penguin Village,Bingo & Chill,,,,,,2,2,2,1,2,9
 2018-WMUCC,M-X,2018-08-03,11:30,7,Normal,Placement,15th,Spectrum,Wasabi,,,,,,4,4,4,4,4,20
