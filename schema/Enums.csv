@@ -1,11 +1,11 @@
 Type,Scope,Age,Age Code,Gender,Gender Code,Stage,Field,Role,Surface,Abbreviation,Event Name,Country,Country Name,Country,Region
-Club,Africa,U20,U20,Open/Men,M,Group,Normal,Player,Grass,AAUCC,All African Ultimate Club Championships,AFG,Afghanistan,AFG,Asia
+Club,Africa,U20/U19,U20,Open/Men,M,Group,Normal,Player,Grass,AAUCC,All African Ultimate Club Championships,AFG,Afghanistan,AFG,Asia
 National,Asia Oceania,U24/U23,U24,Women,W,Crossover,Showcase,Coach,Beach,AOUC,Asia Oceanic Ultimate Championships,ALB,Albania,ALB,Europe
 ,Europe,All,A,Mixed,X,Playoff,,Staff,,AOUCC,Asia Oceanic Ultimate Club Championships,ALG,Algeria,ALG,Africa
 ,Americas,Master,M,,,Placement,,Player + Captain,,AOUGCC,Asia Oceanic Ultimate and Guts Club Championships,AND,Andorra,AND,Europe
 ,World,Grand Master,GM,,,Finals,,Player + Spirit Captain,,ECC,European Club Championships,ANG,Angola,ANG,Africa
 ,Asia,Great Grand Master,GGM,,,,,,,EUC,European Ultimate Championships,ANT,Antigua and Barbuda,ANT,Central America + Caribbean
-,Oceania,,,,,,,,,PAUC,Pan American Ultimate Championships,ARG,Argentina,ARG,South America
+,Oceania,U17,U17,,,,,,,PAUC,Pan American Ultimate Championships,ARG,Argentina,ARG,South America
 ,North America,,,,,,,,,PAUCC,Pan American Ultimate Club Championships,ARM,Armenia,ARM,Europe
 ,Central America + Caribbean,,,,,,,,,WCBU,World Championships of Beach Ultimate,ARU,Aruba,ARU,Central America + Caribbean
 ,South America,,,,,,,,,WGGMBUC,World Great Grandmasters Beach Ultimate Championships,ASA,American Samoa,ASA,Oceania
@@ -15,18 +15,18 @@ National,Asia Oceania,U24/U23,U24,Women,W,Crossover,Showcase,Coach,Beach,AOUC,As
 ,,,,,,,,,,WU24UC,World Under-24 Ultimate Championships,BAH,Bahamas,BAH,Central America + Caribbean
 ,,,,,,,,,,WUCC,World Ultimate Club Championships,BAN,Bangladesh,BAN,Asia
 ,,,,,,,,,,WUGC,World Ultimate and Guts Championships,BAR,Barbados,BAR,Central America + Caribbean
-,,,,,,,,,,EBUCC,European Beach Ultimate Club Championship,BDI,Burundi,BDI,Africa
-,,,,,,,,,,AOUGC,Asia Oceanic Ultimate and Guts Championship,BEL,Belgium,BEL,Europe
-,,,,,,,,,,AAUGC,All Africa Ultimate and Guts Championship,BEN,Benin,BEN,Africa
-,,,,,,,,,,AOBUC,Asia Oceanic Beach Ultimate Championship,BER,Bermuda,BER,Central America + Caribbean
-,,,,,,,,,,EBUC,European Beach Ultimate Championship,BHU,Bhutan,BHU,Asia
-,,,,,,,,,,PAUGC,Pan American Ultimate and Guts Championship,BIH,Bosnia and Herzegovina,BIH,Europe
-,,,,,,,,,,WOC,World Overall Championship,BIZ,Belize,BIZ,Central America + Caribbean
+,,,,,,,,,,EBUCC,European Beach Ultimate Club Championships,BDI,Burundi,BDI,Africa
+,,,,,,,,,,AOUGC,Asia Oceanic Ultimate and Guts Championships,BEL,Belgium,BEL,Europe
+,,,,,,,,,,AAUGC,All Africa Ultimate and Guts Championships,BEN,Benin,BEN,Africa
+,,,,,,,,,,AOBUC,Asia Oceanic Beach Ultimate Championships,BER,Bermuda,BER,Central America + Caribbean
+,,,,,,,,,,EBUC,European Beach Ultimate Championships,BHU,Bhutan,BHU,Asia
+,,,,,,,,,,PAUGC,Pan American Ultimate and Guts Championships,BIH,Bosnia and Herzegovina,BIH,Europe
+,,,,,,,,,,WOC,World Overall Championships,BIZ,Belize,BIZ,Central America + Caribbean
 ,,,,,,,,,,EUCF,European Ultimate Championships Finals,BLR,Belarus,BLR,Europe
 ,,,,,,,,,,WUC,World Ultimate Championships,BOL,Bolivia,BOL,South America
 ,,,,,,,,,,TWG,The World Games,BOT,Botswana,BOT,Africa
 ,,,,,,,,,,WMUC,World Masters Ultimate Championships,BRA,Brazil,BRA,South America
-,,,,,,,,,,,,BRN,Bahrain,BRN,Asia
+,,,,,,,,,,EYUC,European Youth Ultiumate Championships,BRN,Bahrain,BRN,Asia
 ,,,,,,,,,,,,BRU,Brunei,BRU,Asia
 ,,,,,,,,,,,,BUL,Bulgaria,BUL,Europe
 ,,,,,,,,,,,,BUR,Burkina Faso,BUR,Africa
@@ -197,7 +197,7 @@ National,Asia Oceania,U24/U23,U24,Women,W,Crossover,Showcase,Coach,Beach,AOUC,As
 ,,,,,,,,,,,,UGA,Uganda,UGA,Africa
 ,,,,,,,,,,,,UKR,Ukraine,UKR,Europe
 ,,,,,,,,,,,,URU,Uruguay,URU,South America
-,,,,,,,,,,,,USA,United States,USA,North America
+,,,,,,,,,,,,USA,United States of America,USA,North America
 ,,,,,,,,,,,,UZB,Uzbekistan,UZB,Asia
 ,,,,,,,,,,,,VAN,Vanuatu,VAN,Oceania
 ,,,,,,,,,,,,VEN,Venezuela,VEN,South America
@@ -216,3 +216,4 @@ National,Asia Oceania,U24/U23,U24,Women,W,Crossover,Showcase,Coach,Beach,AOUC,As
 ,,,,,,,,,,,,,Scotland,,Europe
 ,,,,,,,,,,,,,Tahiti,,Oceania
 ,,,,,,,,,,,,,Wales,,Europe
+,,,,,,,,,,,,EUI,United European Islands,EUI,Europe
