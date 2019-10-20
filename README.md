@@ -33,8 +33,8 @@ Growing list of WFDF events and their details
 
 | Event ID | Name | Abbreviation | Year | Scope | Type | Surface | Host | Country | Start Date | End Date | Website |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| `2019-WU24UC` | `World Under-24 Ultimate Championships` | `WU24UC` | `2019` | `World` |  `National` | `Grass` | `Heidelberg` | `GER` | `2019-07-13` | `2019-07-20` | `https://wu24heidelberg.com`
-| `2018-EBUCC` | `European Beach Ultimate Club Championship` | `EBUCC` | `2018` | `Europe` | `Club` | `Beach` | `Castelldefels` | `ESP` | `2018-10-26` | `2018-10-28` | `https://ebucc2018.org`
+| `2019-WU24UC` | `World Under-24 Ultimate Championships` | `WU24UC` | `2019` | `World` |  `National` | `Grass` | `Heidelberg` | `GER` | `2019-07-13` | `2019-07-20` | `https://wu24heidelberg.com` |
+| `2018-EBUCC` | `European Beach Ultimate Club Championship` | `EBUCC` | `2018` | `Europe` | `Club` | `Beach` | `Castelldefels` | `ESP` | `2018-10-26` | `2018-10-28` | `https://ebucc2018.org` |
 | Year-Abbreviation | Event Name | Event Abbreviation | Year | World, Africa, Americas, Asia Oceania, Europe | Club, National | Beach, Grass | Host city, province | IOC host country code | ISO date | ISO date | URL |
 
 ***
@@ -50,7 +50,7 @@ Growing list of players, that have participated in WFDF events
 | WFDF ID | Gender | Date of Birth | Nationality |
 |---|---|---|---|
 | `1` | `Female` | `1990-01-01` | `USA` |
-|`2`| `Male` | `1989-12-31` | `JPN` | 
+|`2`| `Male` | `1989-12-31` | `JPN` |
 |WFDF id number | Female, Male | ISO date | IOC country code |
 
 ***
@@ -63,8 +63,8 @@ Growing list of teams, that have participated in WFDF events
 
 **Example**
 
-| Team ID | Team Name | Country | City | 
-|---|---|---|---| 
+| Team ID | Team Name | Country | City |
+|---|---|---|---|
 | `AUS-SampleTeam` | `Sample Team` | `AUS` | `Sydney` |
 | `AUS-SampleSquad` | `Sample Squad` | `AUS` | `Melbourne` |
 | Country-TeamName | Team name | IOC country code | City name |
@@ -75,7 +75,7 @@ Growing list of teams, that have participated in WFDF events
 
 List of all games and results from an event.
 
-| Event ID | Division ID | Date | Time | Field # | Field | Stage | Game Detail | Team | Opponent | Goals | Offence Time | Offence Goals | TOs | Spirit TOs | Rules | Fouls | Fair | Pos | Comm | Total | 
+| Event ID | Division ID | Date | Time | Field # | Field | Stage | Game Detail | Team | Opponent | Goals | Offence Time | Offence Goals | TOs | Spirit TOs | Rules | Fouls | Fair | Pos | Comm | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |---|---|---|---|---|---|---|---|---|
 | `2018 WMUCC` | `M-M` | `2018-07-29` | `17:30` | `Arena` | `Showcase` | `Group` | `A2 vs A4` | `SUN` | `Quantum` | `13` | `2m 17s` | `13`| `2` | `0`| `2` |  `2` | `3` | `3` | `2` | `12`|
 | `2018 WMUCC` | `M-M` | `2018-07-29` | `17:30` | `Arena` | `Showcase` | `Group` | `A4 vs A2` | `Quantum` | `Sun` | `15` | `1m 05s` | `13`| `1` | `0`| `2` |  `2` | `3` | `3` | `2` | `3`|
@@ -111,4 +111,4 @@ List of all team rosters at a given event
 |---|---|---|---|---|---|---|
 | `2018-WMUCC` | `AUS-SampleTeam` | `1` | `3` | `YES` | `NO` | `NO` |
 | `2018-WMUCC` | `AUS-SampleTeam` | `4` | `3` | `YES` | `YES` | `NO` |
-| Event ID | Team ID | WFDF ID | Player number | YES, NO | YES, NO | YES, NO | 
+| Event ID | Team ID | WFDF ID | Player number | YES, NO | YES, NO | YES, NO |
