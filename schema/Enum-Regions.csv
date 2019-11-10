@@ -1,9 +1,11 @@
-"Code","Name"
-"AF","Africa"
-"AS","Asia"
-"CA","Central America + Caribbean"
-"EU","Europe"
-"NA","North America"
-"OC","Oceania"
-"SA","South America"
-"WO,"World"
+Code,Name,Parent
+AF,Africa,WO
+AS,Asia,AO
+CA,Central America + Caribbean,AM
+EU,Europe,WO
+NA,North America,AM
+OC,Oceania,AO
+SA,South America,AM
+AM,Americas,WO
+AO,Asia Oceania,WO
+WO,World,
