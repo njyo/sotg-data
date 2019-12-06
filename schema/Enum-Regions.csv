@@ -1,11 +1,11 @@
 Code,Name,Parent
 AF,Africa,WO
+AM,Americas,WO
 AS,Asia,AO
+AO,Asia Oceania,WO
 CA,Central America + Caribbean,AM
 EU,Europe,WO
 NA,North America,AM
 OC,Oceania,AO
 SA,South America,AM
-AM,Americas,WO
-AO,Asia Oceania,WO
 WO,World,

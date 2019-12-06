@@ -1,225 +1,225 @@
-Code,Name,Region,"Reverse Lookup"
-AFG,Afghanistan,AS,AFG
-AIA,Anguilla,CA,AIA
-ALB,Albania,EU,ALB
-ALG,Algeria,AF,ALG
-AND,Andorra,EU,AND
-ANG,Angola,AF,ANG
-ANT,Antigua and Barbuda,CA,ANT
-ARG,Argentina,SA,ARG
-ARM,Armenia,EU,ARM
-ARU,Aruba,CA,ARU
-ASA,American Samoa,OC,ASA
-ASA,American Samoa,OC,ASA
-AUS,Australia,OC,AUS
-AUT,Austria,EU,AUT
-AZE,Azerbaijan,EU,AZE
-BAH,Bahamas,CA,BAH
-BAN,Bangladesh,AS,BAN
-BAR,Barbados,CA,BAR
-BDI,Burundi,AF,BDI
-BEL,Belgium,EU,BEL
-BEN,Benin,AF,BEN
-BER,Bermuda,CA,BER
-BHU,Bhutan,AS,BHU
-BIH,Bosnia and Herzegovina,EU,BIH
-BIZ,Belize,CA,BIZ
-BLR,Belarus,EU,BLR
-BOL,Bolivia,SA,BOL
-BOT,Botswana,AF,BOT
-BRA,Brazil,SA,BRA
-BRN,Bahrain,AS,BRN
-BRU,Brunei,AS,BRU
-BUL,Bulgaria,EU,BUL
-BUR,Burkina Faso,AF,BUR
-CAF,Central African Republic,AF,CAF
-CAM,Cambodia,AS,CAM
-CAN,Canada,NA,CAN
-CAY,Cayman Islands,CA,CAY
-CGO,Congo,AF,CGO
-CHA,Chad,AF,CHA
-CHI,Chile,SA,CHI
-CHN,China,AS,CHN
-CIV,Ivory Coast,AF,CIV
-CMR,Cameroon,AF,CMR
-COD,Democratic Republic of the Congo,AF,COD
-COK,Cook Islands,OC,COK
-COL,Colombia,SA,COL
-COM,Comoros,AF,COM
-CPV,Cape Verde,AF,CPV
-CRC,Costa Rica,CA,CRC
-CRO,Croatia,EU,CRO
-CUB,Cuba,CA,CUB
-CYP,Cyprus,EU,CYP
-CZE,Czech Republic,EU,CZE
-DEN,Denmark,EU,DEN
-DJI,Djibouti,AF,DJI
-DMA,Dominica,CA,DMA
-DOM,Dominican Republic,CA,DOM
-ECU,Ecuador,SA,ECU
-EGY,Egypt,AF,EGY
-ENG,England,EU,ENG
-ERI,Eritrea,AF,ERI
-ESA,El Salvador,CA,ESA
-ESP,Spain,EU,ESP
-EST,Estonia,EU,EST
-ETH,Ethiopia,AF,ETH
-FIJ,Fiji,OC,FIJ
-FIN,Finland,EU,FIN
-FRA,France,EU,FRA
-FRO,Faroe islands,EU,FRO
-FSM,Federated States of Micronesia,OC,FSM
-GAB,Gabon,AF,GAB
-GAM,The Gambia,AF,GAM
-GBR,Great Britain,EU,GBR
-GBS,Guinea-Bissau,AF,GBS
-GEO,Georgia,EU,GEO
-GEQ,Equatorial Guinea,AF,GEQ
-GER,Germany,EU,GER
-GHA,Ghana,AF,GHA
-GIB,Gibraltar,EU,GIB
-GRE,Greece,EU,GRE
-GRN,Grenada,CA,GRN
-GUA,Guatemala,CA,GUA
-GUI,Guinea,AF,GUI
-GUM,Guam,OC,GUM
-GUY,Guyana,SA,GUY
-HAI,Haiti,CA,HAI
-HKG,Hong Kong,AS,HKG
-HON,Honduras,CA,HON
-HUN,Hungary,EU,HUN
-INA,Indonesia,AS,INA
-IND,India,AS,IND
-IRI,Iran,AS,IRI
-IRL,Ireland,EU,IRL
-IRQ,Iraq,AS,IRQ
-ISL,Iceland,EU,ISL
-ISR,Israel,EU,ISR
-ISV,Virgin Islands,CA,ISV
-ITA,Italy,EU,ITA
-IVB,British Virgin Islands,CA,IVB
-JAM,Jamaica,CA,JAM
-JOR,Jordan,AS,JOR
-JPN,Japan,AS,JPN
-KAZ,Kazakhstan,AS,KAZ
-KEN,Kenya,AF,KEN
-KGZ,Kyrgyzstan,AS,KGZ
-KIR,Kiribati,OC,KIR
-KOR,South Korea,AS,KOR
-KOS,Kosovo,EU,KOS
-KSA,Saudi Arabia,AS,KSA
-KUW,Kuwait,AS,KUW
-LAO,Laos,AS,LAO
-LAT,Latvia,EU,LAT
-LBA,Libya,AF,LBA
-LBN,Lebanon,AS,LBN
-LBR,Liberia,AF,LBR
-LCA,Saint Lucia,CA,LCA
-LES,Lesotho,AF,LES
-LIE,Liechtenstein,EU,LIE
-LTU,Lithuania,EU,LTU
-LUX,Luxembourg,EU,LUX
-MAD,Madagascar,AF,MAD
-MAR,Morocco,AF,MAR
-MAS,Malaysia,AS,MAS
-MAW,Malawi,AF,MAW
-MDA,Moldova,EU,MDA
-MDV,Maldives,AS,MDV
-MEX,Mexico,NA,MEX
-MGL,Mongolia,AS,MGL
-MHL,Marshall Islands,OC,MHL
-MKD,Macedonia,EU,MKD
-MLI,Mali,AF,MLI
-MLT,Malta,EU,MLT
-MNE,Montenegro,EU,MNE
-MON,Monaco,EU,MON
-MOZ,Mozambique,AF,MOZ
-MRI,Mauritius,AF,MRI
-MTN,Mauritania,AF,MTN
-MYA,Myanmar,AS,MYA
-NAM,Namibia,AF,NAM
-NCA,Nicaragua,CA,NCA
-NCL,New Caledonia,OC,NCL
-NED,Netherlands,EU,NED
-NEP,Nepal,AS,NEP
-NGR,Nigeria,AF,NGR
-NIG,Niger,AF,NIG
-NIR,Northern Ireland,EU,NIR
-NOR,Norway,EU,NOR
-NRU,Nauru,OC,NRU
-NZL,New Zealand,OC,NZL
-OMA,Oman,AS,OMA
-PAK,Pakistan,AS,PAK
-PAN,Panama,CA,PAN
-PAR,Paraguay,SA,PAR
-PER,Peru,SA,PER
-PHI,Philippines,AS,PHI
-PLE,Palestine,AS,PLE
-PLW,Palau,OC,PLW
-PNG,Papua New Guinea,OC,PNG
-POL,Poland,EU,POL
-POR,Portugal,EU,POR
-PRK,North Korea,AS,PRK
-PUR,Puerto Rico,CA,PUR
-QAT,Qatar,AS,QAT
-ROU,Romania,EU,ROU
-RSA,South Africa,AF,RSA
-RUS,Russia,EU,RUS
-RWA,Rwanda,AF,RWA
-SAM,Samoa,OC,SAM
-SCO,Scotland,EU,SCO
-SEN,Senegal,AF,SEN
-SEY,Seychelles,AF,SEY
-SGP,Singapore,AS,SGP
-SKN,Saint Kitts and Nevis,CA,SKN
-SLE,Sierra Leone,AF,SLE
-SLO,Slovenia,EU,SLO
-SMR,San Marino,EU,SMR
-SOL,Solomon Islands,OC,SOL
-SOM,Somalia,AF,SOM
-SRB,Serbia,EU,SRB
-SRI,Sri Lanka,AS,SRI
-SSD,South Sudan,AF,SSD
-STP,São Tomé and Príncipe,AF,STP
-SUD,Sudan,AF,SUD
-SUI,Switzerland,EU,SUI
-SUR,Suriname,SA,SUR
-SVK,Slovakia,EU,SVK
-SWE,Sweden,EU,SWE
-SWZ,Eswatini,AF,SWZ
-SYR,Syria,AS,SYR
-TAH,Tahiti,OC,TAH
-TAN,Tanzania,AF,TAN
-TGA,Tonga,OC,TGA
-THA,Thailand,AS,THA
-TJK,Tajikistan,AS,TJK
-TKM,Turkmenistan,AS,TKM
-TLS,East Timor,AS,TLS
-TOG,Togo,AF,TOG
-TPE,Chinese Taipei,AS,TPE
-TTO,Trinidad and Tobago,CA,TTO
-TUN,Tunisia,AF,TUN
-TUR,Turkey,EU,TUR
-TUV,Tuvalu,OC,TUV
-UAE,United Arab Emirates,AS,UAE
-UGA,Uganda,AF,UGA
-UKR,Ukraine,EU,UKR
-URU,Uruguay,SA,URU
-USA,United States of America,NA,USA
-UZB,Uzbekistan,AS,UZB
-VAN,Vanuatu,OC,VAN
-VEN,Venezuela,SA,VEN
-VIE,Vietnam,AS,VIE
-VIN,Saint Vincent and the Grenadines,CA,VIN
-WAL,Wales,EU,WAL
-YEM,Yemen,AS,YEM
-ZAM,Zambia,AF,ZAM
-ZIM,Zimbabwe,AF,ZIM
-CUR,Currier Island,WO,CUR
-EUI,United European Islands,EU,EUI
-XAF,All African Mix,AF,XAF
-XAS,All Asian Mix,AS,XAS
-XAM,All American Mix,AM,XAM
-XEU,All European Mix,EU,XEU
-XOC,All Oceanian Mix,OC,XOC
-XWO,All World Mix,WO,XWO
+Code,Name,Region
+AFG,Afghanistan,AS
+AIA,Anguilla,CA
+ALB,Albania,EU
+ALG,Algeria,AF
+AND,Andorra,EU
+ANG,Angola,AF
+ANT,Antigua and Barbuda,CA
+ARG,Argentina,SA
+ARM,Armenia,EU
+ARU,Aruba,CA
+ASA,American Samoa,OC
+ASA,American Samoa,OC
+AUS,Australia,OC
+AUT,Austria,EU
+AZE,Azerbaijan,EU
+BAH,Bahamas,CA
+BAN,Bangladesh,AS
+BAR,Barbados,CA
+BDI,Burundi,AF
+BEL,Belgium,EU
+BEN,Benin,AF
+BER,Bermuda,CA
+BHU,Bhutan,AS
+BIH,Bosnia and Herzegovina,EU
+BIZ,Belize,CA
+BLR,Belarus,EU
+BOL,Bolivia,SA
+BOT,Botswana,AF
+BRA,Brazil,SA
+BRN,Bahrain,AS
+BRU,Brunei,AS
+BUL,Bulgaria,EU
+BUR,Burkina Faso,AF
+CAF,Central African Republic,AF
+CAM,Cambodia,AS
+CAN,Canada,NA
+CAY,Cayman Islands,CA
+CGO,Congo,AF
+CHA,Chad,AF
+CHI,Chile,SA
+CHN,China,AS
+CIV,Ivory Coast,AF
+CMR,Cameroon,AF
+COD,Democratic Republic of the Congo,AF
+COK,Cook Islands,OC
+COL,Colombia,SA
+COM,Comoros,AF
+CPV,Cape Verde,AF
+CRC,Costa Rica,CA
+CRO,Croatia,EU
+CUB,Cuba,CA
+CYP,Cyprus,EU
+CZE,Czech Republic,EU
+DEN,Denmark,EU
+DJI,Djibouti,AF
+DMA,Dominica,CA
+DOM,Dominican Republic,CA
+ECU,Ecuador,SA
+EGY,Egypt,AF
+ENG,England,EU
+ERI,Eritrea,AF
+ESA,El Salvador,CA
+ESP,Spain,EU
+EST,Estonia,EU
+ETH,Ethiopia,AF
+FIJ,Fiji,OC
+FIN,Finland,EU
+FRA,France,EU
+FRO,Faroe islands,EU
+FSM,Federated States of Micronesia,OC
+GAB,Gabon,AF
+GAM,The Gambia,AF
+GBR,Great Britain,EU
+GBS,Guinea-Bissau,AF
+GEO,Georgia,EU
+GEQ,Equatorial Guinea,AF
+GER,Germany,EU
+GHA,Ghana,AF
+GIB,Gibraltar,EU
+GRE,Greece,EU
+GRN,Grenada,CA
+GUA,Guatemala,CA
+GUI,Guinea,AF
+GUM,Guam,OC
+GUY,Guyana,SA
+HAI,Haiti,CA
+HKG,Hong Kong,AS
+HON,Honduras,CA
+HUN,Hungary,EU
+INA,Indonesia,AS
+IND,India,AS
+IRI,Iran,AS
+IRL,Ireland,EU
+IRQ,Iraq,AS
+ISL,Iceland,EU
+ISR,Israel,EU
+ISV,Virgin Islands,CA
+ITA,Italy,EU
+IVB,British Virgin Islands,CA
+JAM,Jamaica,CA
+JOR,Jordan,AS
+JPN,Japan,AS
+KAZ,Kazakhstan,AS
+KEN,Kenya,AF
+KGZ,Kyrgyzstan,AS
+KIR,Kiribati,OC
+KOR,South Korea,AS
+KOS,Kosovo,EU
+KSA,Saudi Arabia,AS
+KUW,Kuwait,AS
+LAO,Laos,AS
+LAT,Latvia,EU
+LBA,Libya,AF
+LBN,Lebanon,AS
+LBR,Liberia,AF
+LCA,Saint Lucia,CA
+LES,Lesotho,AF
+LIE,Liechtenstein,EU
+LTU,Lithuania,EU
+LUX,Luxembourg,EU
+MAD,Madagascar,AF
+MAR,Morocco,AF
+MAS,Malaysia,AS
+MAW,Malawi,AF
+MDA,Moldova,EU
+MDV,Maldives,AS
+MEX,Mexico,NA
+MGL,Mongolia,AS
+MHL,Marshall Islands,OC
+MKD,Macedonia,EU
+MLI,Mali,AF
+MLT,Malta,EU
+MNE,Montenegro,EU
+MON,Monaco,EU
+MOZ,Mozambique,AF
+MRI,Mauritius,AF
+MTN,Mauritania,AF
+MYA,Myanmar,AS
+NAM,Namibia,AF
+NCA,Nicaragua,CA
+NCL,New Caledonia,OC
+NED,Netherlands,EU
+NEP,Nepal,AS
+NGR,Nigeria,AF
+NIG,Niger,AF
+NIR,Northern Ireland,EU
+NOR,Norway,EU
+NRU,Nauru,OC
+NZL,New Zealand,OC
+OMA,Oman,AS
+PAK,Pakistan,AS
+PAN,Panama,CA
+PAR,Paraguay,SA
+PER,Peru,SA
+PHI,Philippines,AS
+PLE,Palestine,AS
+PLW,Palau,OC
+PNG,Papua New Guinea,OC
+POL,Poland,EU
+POR,Portugal,EU
+PRK,North Korea,AS
+PUR,Puerto Rico,CA
+QAT,Qatar,AS
+ROU,Romania,EU
+RSA,South Africa,AF
+RUS,Russia,EU
+RWA,Rwanda,AF
+SAM,Samoa,OC
+SCO,Scotland,EU
+SEN,Senegal,AF
+SEY,Seychelles,AF
+SGP,Singapore,AS
+SKN,Saint Kitts and Nevis,CA
+SLE,Sierra Leone,AF
+SLO,Slovenia,EU
+SMR,San Marino,EU
+SOL,Solomon Islands,OC
+SOM,Somalia,AF
+SRB,Serbia,EU
+SRI,Sri Lanka,AS
+SSD,South Sudan,AF
+STP,São Tomé and Príncipe,AF
+SUD,Sudan,AF
+SUI,Switzerland,EU
+SUR,Suriname,SA
+SVK,Slovakia,EU
+SWE,Sweden,EU
+SWZ,Eswatini,AF
+SYR,Syria,AS
+TAH,Tahiti,OC
+TAN,Tanzania,AF
+TGA,Tonga,OC
+THA,Thailand,AS
+TJK,Tajikistan,AS
+TKM,Turkmenistan,AS
+TLS,East Timor,AS
+TOG,Togo,AF
+TPE,Chinese Taipei,AS
+TTO,Trinidad and Tobago,CA
+TUN,Tunisia,AF
+TUR,Turkey,EU
+TUV,Tuvalu,OC
+UAE,United Arab Emirates,AS
+UGA,Uganda,AF
+UKR,Ukraine,EU
+URU,Uruguay,SA
+USA,United States of America,NA
+UZB,Uzbekistan,AS
+VAN,Vanuatu,OC
+VEN,Venezuela,SA
+VIE,Vietnam,AS
+VIN,Saint Vincent and the Grenadines,CA
+WAL,Wales,EU
+YEM,Yemen,AS
+ZAM,Zambia,AF
+ZIM,Zimbabwe,AF
+CUR,Currier Island,WO
+EUI,United European Islands,EU
+XAF,All African Mix,AF
+XAS,All Asian Mix,AS
+XAM,All American Mix,AM
+XEU,All European Mix,EU
+XOC,All Oceanian Mix,OC
+XWO,All World Mix,WO
