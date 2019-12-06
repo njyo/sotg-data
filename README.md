@@ -2,7 +2,18 @@
 
 In the lack of a publicly query-able repository of [WFDF](http://wfdf.org) game scores and [SOTG](http://www.wfdf.org/sotg/about-sotg) data, this repository provides a CSV dump of all data excavated. Eventually this data shall be in a neat, queryable database.
 
-Got any stats questions you'd like to have answered, please [fill this form here](https://forms.gle/onaTEMqgYsTFr4sdA).
+# Use
+
+## Reading data
+
+**Self-serve:** You can use this [Observable tool](https://observablehq.com/@njyo/spirit-analysis-via-websql) to query the data via SQL.
+
+**Analysis queries:** Got any stats questions you'd like to have answered, please [fill this form here](https://forms.gle/onaTEMqgYsTFr4sdA).
+
+## Adding data
+
+You can send me the data or request collaboration access.
+
 
 # Structure
 
