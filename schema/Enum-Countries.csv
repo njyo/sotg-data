@@ -39,7 +39,7 @@ CAY,Cayman Islands,CA
 CGO,Congo,AF
 CHA,Chad,AF
 CHI,Chile,SA
-CHN,China,AS
+CHN,People’s Republic of China,AS
 CIV,Ivory Coast,AF
 CMR,Cameroon,AF
 COD,Democratic Republic of the Congo,AF
@@ -85,7 +85,7 @@ GUI,Guinea,AF
 GUM,Guam,OC
 GUY,Guyana,SA
 HAI,Haiti,CA
-HKG,Hong Kong,AS
+HKG,"Hong Kong, China",AS
 HON,Honduras,CA
 HUN,Hungary,EU
 INA,Indonesia,AS
@@ -105,7 +105,7 @@ KAZ,Kazakhstan,AS
 KEN,Kenya,AF
 KGZ,Kyrgyzstan,AS
 KIR,Kiribati,OC
-KOR,South Korea,AS
+KOR,Republic of Korea,AS
 KOS,Kosovo,EU
 KSA,Saudi Arabia,AS
 KUW,Kuwait,AS
