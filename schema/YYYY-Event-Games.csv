@@ -1,3 +1,3 @@
-Event,Division,Date,Time,Field #,Field,Stage,Game Detail,Team,Opponent,Goals,Offence Time,Offence Goals,TOs,Spirit TOs,Rules,Fouls,Fair,Pos,Comm,Total
-2018 WMUCC,M-M,2018-07-29,17:30,Arena,Showcase,Group,A4 vs A2,SUN,Quantum,,,,,,2,2,3,3,2,12
-2018 WMUCC,M-M,2018-07-29,17:30,Arena,Showcase,Group,A4 vs A2,Quantum,SUN,,,,,,2,2,3,3,3,13
+Event,Division,Date,Time,Field #,Field,Stage,Game Detail,Team,Country,Opponent,Opponent Country,Goals,Offence Time,Offence Goals,TOs,Spirit TOs,Rules,Fouls,Fair,Pos,Comm,Total
+2018 WMUCC,M-M,2018-07-29,17:30,Arena,Showcase,Group,A4 vs A2,SUN,CAN,Quantum,CAN,,,,,,2,2,3,3,2,12
+2018 WMUCC,M-M,2018-07-29,17:30,Arena,Showcase,Group,A4 vs A2,Quantum,CAN,SUN,CAN,,,,,,2,2,3,3,3,13
