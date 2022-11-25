@@ -1,6 +1,10 @@
 ID,Code,Year,Location,Country,Start Date,End Date,Website,LastReportYear,Remarks
-2020-WMUC,WMUC,2020,Gold Coast,AUS,2020-09-05,2020-09-12,https://wmuc2020.com,2023,
-2020-WUGC,WUGC,2020,Leeuwarden,NED,2020-07-11,2020-07-18,https://www.2020wugc.com,2023,
+2022-WTDGC,2022,Varaždin,CRO,2022-08-17,2022-08-20,https://www.wtdgc.sport,,
+2022-WJUC,WJUC,2022,Wrocław,POL,2022-08-06,2022-08-13,https://www.jjuc.sport,2025,"JJUC was WJUC with EYUC"
+2022-WOC,WOC,2022,"San Diego, CA",USA,2022-08-01,2022-08-06,https://wofdc.sport,,
+2022-WUCC,WUCC,2022,Ohio,USA,2022-07-23,2022-07-30,https://www.wucc.sport,2025,
+2022-TWG,TWG,2022,"Birmingham, AL",USA,2022-07-07,2022-07-17,https://twg2022.com,,
+2022-WMUCC,WMUCC,2022,Limerick,IRL,2022-06-25,2022-07-02,https://wmucc.sport,2025,
 2019-WOC,WOC,2019,"Richmond, VA",USA,2019-07-08,2019-07-13,http://www.rvadisc2019.com,2020,
 2019-PAUCC,PAUCC,2019,"Sarasota, FL",USA,2019-11-03,2019-11-08,http://www.pauc2019.com,2020,
 2019-AOUGC,AOUGC,2019,Shanghai,CHN,2019-07-23,2019-07-27,http://www.aougc2019.cn,2020,
